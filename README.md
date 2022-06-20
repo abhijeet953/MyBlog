@@ -73,6 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 There are some issues which have to be resolved. Following issues have been identified by me.
 Issues :
-1. When current is over, the images uploaded by the user during that session is not displayed during the next session.
+1. When current session is over, the images uploaded by the user during that session is not displayed in the next session.
 
 
